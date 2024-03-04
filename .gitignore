@@ -1,3 +1,7 @@
 __pycache__
 .pytest_cache
 *.pyc
+.vscode
+test_outputs/
+mymodel/
+*.sav 
