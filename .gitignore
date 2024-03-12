@@ -5,3 +5,6 @@ __pycache__
 test_outputs/
 mymodel/
 *.sav 
+*.zip
+ptb-xl/
+ecg-image-kit/
