@@ -8,3 +8,5 @@ mymodel/
 *.zip
 ptb-xl/
 ecg-image-kit/
+venv/
+.DS_Store
